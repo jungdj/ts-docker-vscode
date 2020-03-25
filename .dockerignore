@@ -1,0 +1,22 @@
+node_modules
+
+# Build
+dist/
+
+# misc
+.DS_Store
+.idea
+.vscode
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+*.log
+
+# Docs
+*.md
+
+# Generated files
+/tmp
